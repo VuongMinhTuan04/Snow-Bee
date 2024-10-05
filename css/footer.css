@@ -1,0 +1,9 @@
+.bg-footer {
+    background-color: #333333;
+    height: 695px;
+}
+
+.custom-input:focus {
+    border: none;
+    box-shadow: none;
+}
